@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Johnny-Liang/gulp-qncdn/issues"
   },
-  "homepage": "https://github.com/Johnny-Liang/gulp-qncdn#readme"
+  "homepage": "https://github.com/Johnny-Liang/gulp-qncdn#readme",
+  "devDependencies": {
+    "through2": "^2.0.1"
+  }
 }
